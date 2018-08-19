@@ -1,4 +1,4 @@
-﻿{"version_code":451203,"content":"
+﻿{"version_code":2,"content":"
 <p>تحديث 8.0</p>
 
 <li>التحديث للإصدار 2.18.102<li>
