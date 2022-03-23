@@ -1,4 +1,4 @@
-{"version_code":2,"content":"
+{"version_code":3,"content":"
 
 <p>تحديث جديد إصدار v3.0</p>
 
