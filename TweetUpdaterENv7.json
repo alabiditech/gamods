@@ -1,15 +1,35 @@
 { 
   { 
-   "v1":1,
+   "v1":8,
    "v2":0,
    "v3":"
-   \nSecret Screenshot Without Knowing Sender
-   \nSecret Screen Record Without Knowing Sender
-   \nHide Typing... indicator in Chat (Don't notify sender that you're typing)
-   \nHide Online in Chat
-   \nHide View Snap
-   \nHide View Story
-   \nHide Read Messages
-   \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
+   \nUpdated Base to Version 9.98.0-release.0
+   \nUpdate Media download server
+   \nAdded New Way to Download Media
+   \nAdded Option to Select download directory
+   \nAdded Option to Disable promoted content
+   \nAdded Option to Disable promoted users
+   \nAdded Option to Disable promoted trends
+   \nAdded Option to Disable sensitive media warning
+   \nAdded Option to Disable recommended users
+   \nAdded Option to Disable Who to Follow
+   \nAdded Option to Disable Creators for you
+   \nAdded Option to Disable Topics to Follow
+   \nAdded Option to Disable Threads
+   \nAdded Option to Disable tweet detail related tweets
+   \nAdded Option to Disable Video Carousel
+   \nAdded Option to Disable Banner View
+   \nAdded Option to Disable URL Redirect
+   \nAdded Option to Hide For you Tab
+   \nAdded Option to open links with external browser
+   \nAdded Option to hide count background in main screen
+   \nAdded Option to hide settings icon in search , notifications and dm
+   \nAdded More Fonts
+   \nSupport Change Fonts in Modifications Section
+   \nImprovment Modifications Section
+   \nFixed Shown accounts names intervening
+   \nFixed Crashes at click read more in Hashtags
+   \nFixed Media Download Issue in som devices
+   \nFixed others and Improvment",
    "website":"https://www.ga-mods.com/2021/12/twitter-plus.html"
 }
